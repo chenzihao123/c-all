@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1509944687 source:d:\codeblockczh\银行\admin.c
+	<stdio.h>
+	"admin.h"
+	<string.h>
+
+1509944687 source:d:\codeblockczh\银行\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"user.h"
+
+1509939494 source:d:\codeblockczh\银行\menu.c
+	<stdio.h>
+
+1509944517 source:d:\codeblockczh\银行\user.c
+	<stdio.h>
+	"admin.h"
+
+1509888857 d:\codeblockczh\银行\admin.h
+	"user.h"
+	"admin.h"
+
+1509944497 d:\codeblockczh\银行\user.h
+	"admin.h"
+
+1510320347 source:d:\codeblockczh\银行 维护版\admin.c
+	<stdio.h>
+	"admin.h"
+	<string.h>
+
+1509888857 d:\codeblockczh\银行 维护版\admin.h
+	"user.h"
+	"admin.h"
+
+1509944497 d:\codeblockczh\银行 维护版\user.h
+	"admin.h"
+
+1510320682 source:d:\codeblockczh\银行 维护版\main.c
+	<stdio.h>
+	<stdlib.h>
+	"admin.h"
+	"user.h"
+	<windows.h>
+
+1510320870 source:d:\codeblockczh\银行 维护版\menu.c
+	<stdio.h>
+
+1509944517 source:d:\codeblockczh\银行 维护版\user.c
+	<stdio.h>
+	"admin.h"
+
