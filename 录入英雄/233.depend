@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1504167703 source:d:\codeblock³Âè÷ºÀ\233\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Hero.h"
+
+1504168985 source:d:\codeblock³Âè÷ºÀ\233\hero.c
+	<stdio.h>
+	"Hero.h"
+	<stdlib.h>
+
+1504169323 d:\codeblock³Âè÷ºÀ\233\hero.h
+	<stdio.h>
+	<stdlib.h>
+

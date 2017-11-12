@@ -1,0 +1,24 @@
+#include <stdio.h>
+#include <stdlib.h>
+int fab(int n);
+int main()
+{
+    int j,k=1,b,i;
+    printf("输入金字塔的行数：");
+    scanf("%d",&j);
+    for(;j>0;j--)
+    {
+        
+        for(b=j;b>0;b--)
+        {
+            printf(" ");
+        }
+        for(i=0;i<k;k++)
+        
+    }
+    
+    
+    
+    return 0;
+}
+

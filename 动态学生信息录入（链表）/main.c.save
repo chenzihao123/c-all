@@ -1,0 +1,56 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+struct student
+{
+    int num,year;
+    char car;
+    char name[10];
+    struct student *next;
+};
+
+
+int main()
+{
+
+    int i,b=1;
+    struct student *head;
+    head=NULL;
+    for(i=0;i<b;i++)
+    {
+        struct student *p,*q;
+        p=(struct student*)malloc(sizeof(struct student));
+
+
+        scanf("%s%d",p->name,&p->num);
+        if(i==0)
+            head=p;
+        else
+            q->next=p;
+        q=p;
+        printf("如果还有同学就按下“y”键\n");
+      getch(car);
+      if(car=='y')
+      b++;
+
+
+
+    }
+    for(i=0;i<b;i++)
+    {
+      struct  student*q,*w;
+      if(i==0)
+      {q=head;w=head->next;}
+      else
+      {
+
+          q=w;
+          w=q->next;
+      }
+        printf("%s\n",q->name);
+
+
+
+    }
+    return 0;
+}

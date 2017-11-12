@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1509171981 source:d:\codeblockczh\unname\a.c
+	<stdio.h>
+
+1509331271 source:d:\codeblockczh\unname\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1509171970 d:\codeblockczh\unname\a.c
+	<stdio.h>
+

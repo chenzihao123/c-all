@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+int main()
+{
+
+   int i;
+   int co;
+   int result=0;
+   int change;
+
+   scanf("%d",&co);
+   for(i=0;i<4;i++)
+{
+  change=co%10;
+    co=(co-change)/10;
+    change*=po10i;printf("    %d  ",change);
+    result+=change;
+
+}
+     printf("%d",result);
+    return 0;
+}

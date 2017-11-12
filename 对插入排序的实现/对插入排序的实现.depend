@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1510358888 source:d:\codeblockczh\对插入排序的实现\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507516471 source:d:\codeblock陈梓豪\c1009\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507519902 source:d:\codeblockczh\c1009\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1507520285 source:d:\codeblockczh\输入行数打印金字塔\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

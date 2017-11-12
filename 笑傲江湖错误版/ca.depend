@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1504663247 source:d:\codeblock³Âè÷ºÀ\ca\beauty.c
+	<stdio.h>
+	<stdlib.h>
+	"g.h"
+
+1504790968 d:\codeblock³Âè÷ºÀ\ca\g.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"beauty.h"
+
+1504747590 source:d:\codeblock³Âè÷ºÀ\ca\g.c
+	<stdio.h>
+	<stdlib.h>
+	"g.h"
+	"beauty.h"
+
+1504663167 d:\codeblock³Âè÷ºÀ\ca\beauty.h
+	<stdio.h>
+	<stdlib.h>
+	"g.h"
+
+1504790456 source:d:\codeblock³Âè÷ºÀ\ca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"g.h"
+	<windows.h>
+	"beauty.h"
+

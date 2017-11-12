@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1509023206 source:d:\codeblockczh\i love you\main.c
+	<stdio.h>
+	<stdlib.h>
+

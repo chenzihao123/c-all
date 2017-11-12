@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "Hero.h"
+
+int main()
+{
+
+while(1)
+{
+    system("cls");
+    system("color ");
+    show();
+    buy();
+
+}
+    return 0;
+}

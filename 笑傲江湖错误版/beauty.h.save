@@ -1,0 +1,10 @@
+#ifndef BEAUTY_H_INCLUDED
+#define BEAUTY_H_INCLUDED
+#include <stdio.h>
+#include <stdlib.h>
+#include "g.h"
+void settitle(char *title);//控制颜色及标题
+
+void setcolor(int forecolor,int backcolor);
+void setposition(int x,int y);
+#endif // BEAUTY_H_INCLUDED

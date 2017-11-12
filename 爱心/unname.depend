@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508856561 source:d:\codeblockczh\unname\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
