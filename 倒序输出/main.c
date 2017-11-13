@@ -5,11 +5,11 @@ int main()
 {
 
    int i;
-   int co, cou;
+   int co, cou;//待交换数和位数
    int result=0;
    double change;
 
-   scanf("%d,%d",&co,&cou);
+   scanf("%d%d",&co,&cou);
    for(i=cou-1;i>-1;i--)
 {
     change=co%10;
